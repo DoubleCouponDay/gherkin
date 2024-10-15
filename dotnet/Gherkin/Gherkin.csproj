@@ -17,13 +17,13 @@
 
   <PropertyGroup Label="Package Properties">
     <Product>Gherkin Parser</Product>
-    <PackageId>Gherkin</PackageId>
+    <PackageId>Gherkin.netframework472</PackageId>
     <Authors>Cucumber Ltd, Gaspar Nagy</Authors>
     <Copyright>Copyright © Cucumber Ltd, Gaspar Nagy</Copyright>
     <Description>Cross-platform parser for the Gherkin language, used by Cucumber, SpecFlow and other Cucumber-based tools to parse feature files.</Description>
     <PackageTags>specflow gherkin cucumber</PackageTags>
-    <PackageProjectUrl>https://github.com/cucumber/gherkin</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/cucumber/gherkin</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/DoubleCouponDay/gherkin</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DoubleCouponDay/gherkin</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageIcon>cucumber-mark-green-128.png</PackageIcon>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
